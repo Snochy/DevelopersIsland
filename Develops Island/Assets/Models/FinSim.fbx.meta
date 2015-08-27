@@ -6,12 +6,15 @@ ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
+    100002: FinBasic
     400000: //RootNode
+    400002: FinBasic
     4300000: FinBasic
     9500000: //RootNode
     13700000: //RootNode
+    13700002: FinBasic
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
@@ -51,7 +54,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0
