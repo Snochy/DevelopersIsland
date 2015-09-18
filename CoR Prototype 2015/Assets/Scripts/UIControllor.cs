@@ -10,6 +10,7 @@ public class UIControllor : MonoBehaviour {
 
     public Button stationaryButton;
     public Button distanceTracker;
+    public Button alongSideFollow;
 
     public GameObject CameraShift;
 
@@ -17,6 +18,7 @@ public class UIControllor : MonoBehaviour {
     {
         distanceTracker.onClick.AddListener(() => { distanceAction(); });
         stationaryButton.onClick.AddListener(() => { stationaryAction(); });
+        alongSideFollow.onClick.AddListener(() => {alongSideFollowAction();});
     }
 
     private void bananaAction()
@@ -38,6 +40,14 @@ public class UIControllor : MonoBehaviour {
 
         foreach (GameObject go in childrenGO)
             go.GetComponent<AIChildControl>().ChangeState(1);
+    }
+
+    private void alongSideFollowAction()
+    {
+        GameObject[] childrenGO = GameObject.FindGameObjectsWithTag("Children");
+
+        foreach (GameObject go in childrenGO)
+            go.GetComponent<AIChildControl>().ChangeState(2);
     }
 
     private void SwitcherAction(int a)

@@ -1,3 +1,38 @@
-Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-4168
+Base path: D:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5600
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=418 outsize=415 ok=1
+Cmd: preprocess
+  insize=1255 outsize=1939 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7781 outsize=4873 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7781 outsize=3143 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4976 outsize=3955 kw=POINT ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (36): floating point division by zero\nCompiling Fragment program with POINT
+  api=4 type=1 insize=4976 outsize=2736 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4181 outsize=3914 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (36): floating point division by zero\nCompiling Fragment program
+  api=4 type=1 insize=4181 outsize=1526 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7024 outsize=5125 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7024 outsize=2411 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7472 outsize=5361 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7472 outsize=2964 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4522 outsize=4686 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4522 outsize=3906 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4976 outsize=3955 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (36): floating point division by zero\nCompiling Fragment program with DIRECTIONAL
+  api=4 type=1 insize=4976 outsize=1956 kw=DIRECTIONAL ok=1

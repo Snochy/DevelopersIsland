@@ -1,0 +1,17 @@
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\obj\Debug\UnityVS.CoR Prototype 2015.CSharp.csprojResolveAssemblyReference.cache
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\obj\Debug\Assembly-CSharp.dll
+E:\Digtal Media Projects\Projects\Developers Island\CoR Prototype 2015\obj\Debug\Assembly-CSharp.pdb
