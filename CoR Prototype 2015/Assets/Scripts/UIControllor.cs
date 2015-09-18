@@ -15,8 +15,6 @@ public class UIControllor : MonoBehaviour {
 
     void Start()
     {
-        biggerEntity.onClick.AddListener(() => { SwitcherAction(0); });
-        smallerEntity.onClick.AddListener(() => { SwitcherAction(1); });
         distanceTracker.onClick.AddListener(() => { distanceAction(); });
         stationaryButton.onClick.AddListener(() => { stationaryAction(); });
     }

@@ -30,8 +30,9 @@ public class AIChildControl : MonoBehaviour {
                 Vector3 moveDirection = new Vector3(targetChild.transform.position.x, transform.position.y, targetChild.transform.position.z)  - transform.position;
                 var newRot = Quaternion.LookRotation(moveDirection);
                 transform.rotation = Quaternion.Lerp(transform.rotation, newRot, 0.1f);
-                if (Vector3.Distance(this.transform.position, targetChild.transform.position) >= 10f)
-                    gameObject.GetComponent<CharacterController>().Move(moveDirection.normalized * 7f * Time.deltaTime);
+                if (Vector3.Distance(this.transform.position, targetChild.transform.position) >= 5f)
+                    gameObject.GetComponent<Rigidbody>().AddForce(moveDirection.normalized);
+
             }
         }
 	}
