@@ -72,6 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AIChildControl.cs" />
+    <Compile Include="Assets\Scripts\Astar.cs" />
     <Compile Include="Assets\Scripts\AttackSystem.cs" />
     <Compile Include="Assets\Scripts\AttackType.cs" />
     <Compile Include="Assets\Scripts\CameraSwap.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Assets\Scripts\ChildAbilties.cs" />
     <Compile Include="Assets\Scripts\ChildStats.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Node.cs" />
     <Compile Include="Assets\Scripts\UIControllor.cs" />
     <Compile Include="Assets\Scripts\projectileControl.cs" />
   </ItemGroup>
